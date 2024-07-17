@@ -7,7 +7,7 @@ import Login from "../component/Auth/Login/Login"
 import SignUp from "../component/Auth/SignUp/SignUp"
 import Save from "../page/FoodSave/Save"
 import MyPage from "../page/MyPage/MyPage"
-import Detail from "../page/Detail/Detail"
+import Detail from "../page/Detail/ShopDetail"
 import Shop from "../page/ShopPage/Shop"
 
 const Router = () => {
@@ -21,7 +21,7 @@ const Router = () => {
         <Route path="/signup" element={<SignUp />} />
         <Route path="/save" element={<Save />} />
         <Route path="/profile" element={<MyPage />} />
-        <Route path="/detail:id" element={<Detail />} />
+        <Route path="/detail" element={<Detail />} />
         <Route path="/shop" element={<Shop />} />
       </Routes>
     </BrowserRouter>
