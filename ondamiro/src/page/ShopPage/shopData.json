@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "돼지고기",
+      "company": "대구광역시 라임 회장 협회산",
+      "person": "1/15",
+      "img": "../../assets/img/image 7foodImgs.svg",
+      "price": "1,800 Point",
+      "content": "content"
+    },
+    {
+      "id": 2,
+      "title": "돼지고기",
+      "company": "대구광역시 라임 회장 협회산",
+      "person": "1/15",
+      "img": "../../assets/img/image 7foodImgs.svg",
+      "price": "1,800 Point",
+      "content": "content"
+    },
+    {
+      "id": 3,
+      "title": "돼지고기",
+      "company": "대구광역시 라임 회장 협회산",
+      "person": "1/15",
+      "img": "../../assets/img/image 7foodImgs.svg",
+      "price": "1,800 Point",
+      "content": "content"
+    },
+    {
+      "id": 4,
+      "title": "돼지고기",
+      "company": "대구광역시 라임 회장 협회산",
+      "person": "1/15",
+      "img": "../../assets/img/image 7foodImgs.svg",
+      "price": "1,800 Point",
+      "content": "content"
+    },
+    {
+      "id": 5,
+      "title": "돼지고기",
+      "company": "대구광역시 라임 회장 협회산",
+      "person": "1/15",
+      "img": "../../assets/img/image 7foodImgs.svg",
+      "price": "1,800 Point",
+      "content": "content"
+    },
+    {
+      "id": 6,
+      "title": "돼지고기",
+      "company": "대구광역시 라임 회장 협회산",
+      "person": "1/15",
+      "img": "../../assets/img/image 7foodImgs.svg",
+      "price": "1,800 Point",
+      "content": "content"
+    },
+    {
+      "id": 7,
+      "title": "돼지고기",
+      "company": "대구광역시 라임 회장 협회산",
+      "person": "1/15",
+      "img": "../../assets/img/image 7foodImgs.svg",
+      "price": "1,800 Point",
+      "content": "content"
+    },
+    {
+      "id": 8,
+      "title": "돼지고기",
+      "company": "대구광역시 라임 회장 협회산",
+      "person": "1/15",
+      "img": "../../assets/img/image 7foodImgs.svg",
+      "price": "1,800 Point",
+      "content": "content"
+    }
+  ]
+}
