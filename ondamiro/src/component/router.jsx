@@ -9,6 +9,7 @@ import Save from "../page/FoodSave/Save"
 import MyPage from "../page/MyPage/MyPage"
 import Detail from "../page/Detail/ShopDetail"
 import Shop from "../page/ShopPage/Shop"
+import ShopDetail from "../page/Detail/ShopDetail"
 
 const Router = () => {
   return (
@@ -23,6 +24,7 @@ const Router = () => {
         <Route path="/profile" element={<MyPage />} />
         <Route path="/detail" element={<Detail />} />
         <Route path="/shop" element={<Shop />} />
+        <Route path="/shopdetail" element={<ShopDetail />} />
       </Routes>
     </BrowserRouter>
   )

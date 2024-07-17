@@ -9,7 +9,7 @@ const ShopBox = () => {
   return (
     <>
       {data.items.map((data) => (
-        <S.Back onClick={() => Navigate(`/ShopDetail/${data.id}`)}>
+        <S.Back onClick={() => Navigate(`/shopdetail`)}>
           <img src={data.img} alt="error" />
           <S.Area>
             <S.textArea key={data.id}>
