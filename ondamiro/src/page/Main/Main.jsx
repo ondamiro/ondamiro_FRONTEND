@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from "react"
+import { useNavigate, useParams } from "react-router-dom";
+import mainData from "./MainData.json";
 import * as S from "./Main.styled";
 
 const Main = () => {

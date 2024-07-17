@@ -1,140 +1,188 @@
 {
-    "data" : [
-        {
-            "title" : "3분 전에 완성된 3분 카레라이스 드실분~",
-            "foodImg" : "../../assets/img/image 7foodImgs.svg",
-            "howMuch" : "1인분",
-            "ingrdint" : ["오뚜기 3분 카레", "쌀밥"],
-            "exprationDate" : ["2026. 06. 09", "어제 지음"],
-            "time" : "1분 전",
-            "map" : "대구 달성군 구지면",
-            "user" : "yoonssun07",
-            "recipe" : {
-                "one" : "1. 오뚜기 3분 카레를 전자레인지에 돌린다.",
-                "two" : "2. 전자레인지가 돌아가는 동안 쌀밥을 그릇에 퍼 준비한다.",
-                "three" : "3. 전자레인지 조리가 끝났으면 밥 위에 부어준다."
-            },
-            "special" : "숟가락만 가져오세요.",
-            "idx" : 1
-        },
-        {
-            "title" : "소고기 뭇국 조금 남았는데 덜어 먹었어요",
-            "foodImg" : "../../assets/img/image 8foodImgs.svg",
-            "howMuch" : "2인분",
-            "ingrdint" : ["오뚜기 3분 카레", "쌀밥"],
-            "exprationDate" : ["2026. 06. 09", "어제 지음"],
-            "time" : "1분 전",
-            "map" : "대구 달성군 구지면",
-            "user" : "yoonssun07",
-            "recipe" : {
-                "one" : "1. 오뚜기 3분 카레를 전자레인지에 돌린다.",
-                "two" : "2. 전자레인지가 돌아가는 동안 쌀밥을 그릇에 퍼 준비한다.",
-                "three" : "3. 전자레인지 조리가 끝났으면 밥 위에 부어준다."
-            },
-            "special" : "숟가락만 가져오세요.",
-            "idx" : 2
-        },
-        {
-            "title" : "소고기 뭇국 조금 남았는데 덜어 먹었어요",
-            "foodImg" : "../../assets/img/image 9foodImgs.svg",
-            "howMuch" : "2인분",
-            "ingrdint" : ["오뚜기 3분 카레", "쌀밥"],
-            "exprationDate" : ["2026. 06. 09", "어제 지음"],
-            "time" : "1분 전",
-            "map" : "대구 달성군 구지면",
-            "user" : "yoonssun07",
-            "recipe" : {
-                "one" : "1. 오뚜기 3분 카레를 전자레인지에 돌린다.",
-                "two" : "2. 전자레인지가 돌아가는 동안 쌀밥을 그릇에 퍼 준비한다.",
-                "three" : "3. 전자레인지 조리가 끝났으면 밥 위에 부어준다."
-            },
-            "special" : "숟가락만 가져오세요.",
-            "idx" : 3
-        },
-        {
-            "title" : "소고기 뭇국 조금 남았는데 덜어 먹었어요",
-            "foodImg" : "../../assets/img/image 10foodImgs.svg",
-            "howMuch" : "2인분",
-            "ingrdint" : ["오뚜기 3분 카레", "쌀밥"],
-            "exprationDate" : ["2026. 06. 09", "어제 지음"],
-            "time" : "1분 전",
-            "map" : "대구 달성군 구지면",
-            "user" : "yoonssun07",
-            "recipe" : {
-                "one" : "1. 오뚜기 3분 카레를 전자레인지에 돌린다.",
-                "two" : "2. 전자레인지가 돌아가는 동안 쌀밥을 그릇에 퍼 준비한다.",
-                "three" : "3. 전자레인지 조리가 끝났으면 밥 위에 부어준다."
-            },
-            "special" : "숟가락만 가져오세요.",
-            "idx" : 4
-        },
-        {
-            "title" : "소고기 뭇국 조금 남았는데 덜어 먹었어요",
-            "foodImg" : "../../assets/img/image 11foodImgs.svg",
-            "howMuch" : "2인분",
-            "ingrdint" : ["오뚜기 3분 카레", "쌀밥"],
-            "exprationDate" : ["2026. 06. 09", "어제 지음"],
-            "time" : "1분 전",
-            "map" : "대구 달성군 구지면",
-            "user" : "yoonssun07",
-            "recipe" : {
-                "one" : "1. 오뚜기 3분 카레를 전자레인지에 돌린다.",
-                "two" : "2. 전자레인지가 돌아가는 동안 쌀밥을 그릇에 퍼 준비한다.",
-                "three" : "3. 전자레인지 조리가 끝났으면 밥 위에 부어준다."
-            },
-            "special" : "숟가락만 가져오세요.",
-            "idx" : 5
-        },
-        {
-            "title" : "소고기 뭇국 조금 남았는데 덜어 먹었어요",
-            "foodImg" : "../../assets/img/image 12foodImgs.svg",
-            "howMuch" : "2인분",
-            "ingrdint" : ["오뚜기 3분 카레", "쌀밥"],
-            "exprationDate" : ["2026. 06. 09", "어제 지음"],
-            "time" : "1분 전",
-            "map" : "대구 달성군 구지면",
-            "user" : "yoonssun07",
-            "recipe" : {
-                "one" : "1. 오뚜기 3분 카레를 전자레인지에 돌린다.",
-                "two" : "2. 전자레인지가 돌아가는 동안 쌀밥을 그릇에 퍼 준비한다.",
-                "three" : "3. 전자레인지 조리가 끝났으면 밥 위에 부어준다."
-            },
-            "special" : "숟가락만 가져오세요.",
-            "idx" : 6
-        },
-        {
-            "title" : "소고기 뭇국 조금 남았는데 덜어 먹었어요",
-            "foodImg" : "../../assets/img/image 13foodImgs.svg",
-            "howMuch" : "2인분",
-            "ingrdint" : ["오뚜기 3분 카레", "쌀밥"],
-            "exprationDate" : ["2026. 06. 09", "어제 지음"],
-            "time" : "1분 전",
-            "map" : "대구 달성군 구지면",
-            "user" : "yoonssun07",
-            "recipe" : {
-                "one" : "1. 오뚜기 3분 카레를 전자레인지에 돌린다.",
-                "two" : "2. 전자레인지가 돌아가는 동안 쌀밥을 그릇에 퍼 준비한다.",
-                "three" : "3. 전자레인지 조리가 끝났으면 밥 위에 부어준다."
-            },
-            "special" : "숟가락만 가져오세요.",
-            "idx" : 7
-        },
-        {
-            "title" : "소고기 뭇국 조금 남았는데 덜어 먹었어요",
-            "foodImg" : "../../assets/img/image 14foodImgs.svg",
-            "howMuch" : "2인분",
-            "ingrdint" : ["오뚜기 3분 카레", "쌀밥"],
-            "exprationDate" : ["2026. 06. 09", "어제 지음"],
-            "time" : "1분 전",
-            "map" : "대구 달성군 구지면",
-            "user" : "yoonssun07",
-            "recipe" : {
-                "one" : "1. 오뚜기 3분 카레를 전자레인지에 돌린다.",
-                "two" : "2. 전자레인지가 돌아가는 동안 쌀밥을 그릇에 퍼 준비한다.",
-                "three" : "3. 전자레인지 조리가 끝났으면 밥 위에 부어준다."
-            },
-            "special" : "숟가락만 가져오세요.",
-            "idx" : 8
-        }
-    ]
+  "data": [
+    {
+      "title": "소고기 뭇국 조금 남았는데 덜어 먹었어요",
+      "foodImg": "../../assets/img/image 8foodImgs.svg",
+      "howMuch": "2인분",
+      "ingrdint": {
+        "one": "오뚜기 3분 카레",
+        "two": "쌀밥"
+      },
+      "exprationDate": {
+        "one": "2026. 06. 09",
+        "two": "어제 지음"
+      },
+      "time": "1분 전",
+      "map": "대구 달성군 구지면",
+      "user": "yoonssun07",
+      "recipe": {
+        "one": "1. 오뚜기 3분 카레를 전자레인지에 돌린다.",
+        "two": "2. 전자레인지가 돌아가는 동안 쌀밥을 그릇에 퍼 준비한다.",
+        "three": "3. 전자레인지 조리가 끝났으면 밥 위에 부어준다."
+      },
+      "special": "숟가락만 가져오세요.",
+      "idx": 1
+    },
+    {
+      "title": "소고기 뭇국 조금 남았는데 덜어 먹었어요",
+      "foodImg": "../../assets/img/image 8foodImgs.svg",
+      "howMuch": "2인분",
+      "ingrdint": {
+        "one": "오뚜기 3분 카레",
+        "two": "쌀밥"
+      },
+      "exprationDate": {
+        "one": "2026. 06. 09",
+        "two": "어제 지음"
+      },
+      "time": "1분 전",
+      "map": "대구 달성군 구지면",
+      "user": "yoonssun07",
+      "recipe": {
+        "one": "1. 오뚜기 3분 카레를 전자레인지에 돌린다.",
+        "two": "2. 전자레인지가 돌아가는 동안 쌀밥을 그릇에 퍼 준비한다.",
+        "three": "3. 전자레인지 조리가 끝났으면 밥 위에 부어준다."
+      },
+      "special": "숟가락만 가져오세요.",
+      "idx": 2
+    },
+    {
+      "title": "소고기 뭇국 조금 남았는데 덜어 먹었어요",
+      "foodImg": "../../assets/img/image 8foodImgs.svg",
+      "howMuch": "2인분",
+      "ingrdint": {
+        "one": "오뚜기 3분 카레",
+        "two": "쌀밥"
+      },
+      "exprationDate": {
+        "one": "2026. 06. 09",
+        "two": "어제 지음"
+      },
+      "time": "1분 전",
+      "map": "대구 달성군 구지면",
+      "user": "yoonssun07",
+      "recipe": {
+        "one": "1. 오뚜기 3분 카레를 전자레인지에 돌린다.",
+        "two": "2. 전자레인지가 돌아가는 동안 쌀밥을 그릇에 퍼 준비한다.",
+        "three": "3. 전자레인지 조리가 끝났으면 밥 위에 부어준다."
+      },
+      "special": "숟가락만 가져오세요.",
+      "idx": 3
+    },
+    {
+      "title": "소고기 뭇국 조금 남았는데 덜어 먹었어요",
+      "foodImg": "../../assets/img/image 8foodImgs.svg",
+      "howMuch": "2인분",
+      "ingrdint": {
+        "one": "오뚜기 3분 카레",
+        "two": "쌀밥"
+      },
+      "exprationDate": {
+        "one": "2026. 06. 09",
+        "two": "어제 지음"
+      },
+      "time": "1분 전",
+      "map": "대구 달성군 구지면",
+      "user": "yoonssun07",
+      "recipe": {
+        "one": "1. 오뚜기 3분 카레를 전자레인지에 돌린다.",
+        "two": "2. 전자레인지가 돌아가는 동안 쌀밥을 그릇에 퍼 준비한다.",
+        "three": "3. 전자레인지 조리가 끝났으면 밥 위에 부어준다."
+      },
+      "special": "숟가락만 가져오세요.",
+      "idx": 4
+    },
+    {
+      "title": "소고기 뭇국 조금 남았는데 덜어 먹었어요",
+      "foodImg": "../../assets/img/image 8foodImgs.svg",
+      "howMuch": "2인분",
+      "ingrdint": {
+        "one": "오뚜기 3분 카레",
+        "two": "쌀밥"
+      },
+      "exprationDate": {
+        "one": "2026. 06. 09",
+        "two": "어제 지음"
+      },
+      "time": "1분 전",
+      "map": "대구 달성군 구지면",
+      "user": "yoonssun07",
+      "recipe": {
+        "one": "1. 오뚜기 3분 카레를 전자레인지에 돌린다.",
+        "two": "2. 전자레인지가 돌아가는 동안 쌀밥을 그릇에 퍼 준비한다.",
+        "three": "3. 전자레인지 조리가 끝났으면 밥 위에 부어준다."
+      },
+      "special": "숟가락만 가져오세요.",
+      "idx": 5
+    },
+    {
+      "title": "소고기 뭇국 조금 남았는데 덜어 먹었어요",
+      "foodImg": "../../assets/img/image 8foodImgs.svg",
+      "howMuch": "2인분",
+      "ingrdint": {
+        "one": "오뚜기 3분 카레",
+        "two": "쌀밥"
+      },
+      "exprationDate": {
+        "one": "2026. 06. 09",
+        "two": "어제 지음"
+      },
+      "time": "1분 전",
+      "map": "대구 달성군 구지면",
+      "user": "yoonssun07",
+      "recipe": {
+        "one": "1. 오뚜기 3분 카레를 전자레인지에 돌린다.",
+        "two": "2. 전자레인지가 돌아가는 동안 쌀밥을 그릇에 퍼 준비한다.",
+        "three": "3. 전자레인지 조리가 끝났으면 밥 위에 부어준다."
+      },
+      "special": "숟가락만 가져오세요.",
+      "idx": 6
+    },
+    {
+      "title": "소고기 뭇국 조금 남았는데 덜어 먹었어요",
+      "foodImg": "../../assets/img/image 8foodImgs.svg",
+      "howMuch": "2인분",
+      "ingrdint": {
+        "one": "오뚜기 3분 카레",
+        "two": "쌀밥"
+      },
+      "exprationDate": {
+        "one": "2026. 06. 09",
+        "two": "어제 지음"
+      },
+      "time": "1분 전",
+      "map": "대구 달성군 구지면",
+      "user": "yoonssun07",
+      "recipe": {
+        "one": "1. 오뚜기 3분 카레를 전자레인지에 돌린다.",
+        "two": "2. 전자레인지가 돌아가는 동안 쌀밥을 그릇에 퍼 준비한다.",
+        "three": "3. 전자레인지 조리가 끝났으면 밥 위에 부어준다."
+      },
+      "special": "숟가락만 가져오세요.",
+      "idx": 7
+    },
+    {
+      "title": "소고기 뭇국 조금 남았는데 덜어 먹었어요",
+      "foodImg": "../../assets/img/image 8foodImgs.svg",
+      "howMuch": "2인분",
+      "ingrdint": {
+        "one": "오뚜기 3분 카레",
+        "two": "쌀밥"
+      },
+      "exprationDate": {
+        "one": "2026. 06. 09",
+        "two": "어제 지음"
+      },
+      "time": "1분 전",
+      "map": "대구 달성군 구지면",
+      "user": "yoonssun07",
+      "recipe": {
+        "one": "1. 오뚜기 3분 카레를 전자레인지에 돌린다.",
+        "two": "2. 전자레인지가 돌아가는 동안 쌀밥을 그릇에 퍼 준비한다.",
+        "three": "3. 전자레인지 조리가 끝났으면 밥 위에 부어준다."
+      },
+      "special": "숟가락만 가져오세요.",
+      "idx": 8
+    }
+  ]
 }
