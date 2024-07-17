@@ -1,9 +1,11 @@
 import React from "react";
 import * as S from "./Login.styled"
+import { useNavigate } from "react-router-dom";
 import logoimg from "../../../assets/img/onda_logo.svg"
 import close_eye from "../../../assets/img/close_eye.svg"
 
 const Login = () => {
+    const Navigate = useNavigate();
     return(
         <S.Body>
         <S.sidebar>
@@ -22,8 +24,8 @@ const Login = () => {
                 </S.Box>
             </S.inputs>
             <S.Btns>
-                <S.loginBtn>로그인</S.loginBtn>
-                <S.SignUpBtn>회원가입</S.SignUpBtn>
+                <S.loginBtn onClick={() => Navigate(`/`)}>로그인</S.loginBtn>
+                <S.SignUpBtn onClick={() => Navigate(`/signup`)}>회원가입</S.SignUpBtn>
             </S.Btns>
             </S.contentBox>
         </S.RightSide>

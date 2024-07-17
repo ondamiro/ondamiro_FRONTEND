@@ -17,6 +17,7 @@ export const loginBtn = styled.button`
     border-radius : 40px;
     font-weight: bold;
     font-size: 1vw;
+    cursor: pointer;
 `
 export const SignUpBtn = styled.button`
     color: black;
@@ -27,6 +28,7 @@ export const SignUpBtn = styled.button`
     background-color: white;
     font-weight: bold;
     font-size: 1vw;
+    cursor: pointer;
 `;
 export const pwInputBox = styled.input`
     width: 25vw;
