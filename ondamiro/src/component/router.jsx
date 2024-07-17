@@ -6,6 +6,7 @@ import Topbar from "../common/Topbar/Topbar"
 import Login from "../component/Auth/Login/Login"
 import SignUp from "../component/Auth/SignUp/SignUp"
 import Save from "../page/FoodSave/Save"
+import MyPage from "../page/MyPage/MyPage"
 
 const Router = () => {
   return (
@@ -17,6 +18,7 @@ const Router = () => {
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<SignUp />} />
         <Route path="/save" element={<Save />} />
+        <Route path="/profile" element={<MyPage />} />
       </Routes>
     </BrowserRouter>
   )
