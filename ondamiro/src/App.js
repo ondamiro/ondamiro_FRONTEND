@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-import SignUp from "./component/Auth/SignUp/SignUp";
-function App() {
-  return (
-    <div>
-      <SignUp />
-    </div>
-  );
-=======
 import Main from "./page/Main/Main"
 import "./App.css"
 // import { BrowseRouter } from "react-router-dom"
@@ -22,7 +13,6 @@ function App() {
     // </BrowseRouter>
     // </div>
   )
->>>>>>> main
 }
 
 export default App
