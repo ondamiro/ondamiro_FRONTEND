@@ -51,13 +51,15 @@ export const idInputBox = styled.input`
 `;
 export const cellInputBox = styled.input`
     height: 6vh;
-    width: 23vw;
+    width: 24vw;
     border : none;
     border-radius : 40px 0px 0px 40px;
     background-color: white;
     padding-left: 2vw;
     font-size : 1.2vw;
     cursor: pointer;
+    display: flex;
+    justify-content: flex-start;
 `;
 export const cerBtn = styled.button`
     width: 6vw;
@@ -112,6 +114,14 @@ export const Box = styled.div`
     display: flex;
     align-items:center;
     width: 30vw;
+`;
+export const cerBox = styled.div`
+    border: 0.1vw solid #FF462D;
+    border-radius : 40px;
+    display: flex;
+    width: 30vw;
+    display: flex;
+    align-items:center;
 `;
 export const closeEye = styled.img`
     width: 2vw;
