@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { useEffect, useState } from "react"
 import { useNavigate, useParams } from "react-router-dom"
 import mainData from "./MainData.json"
@@ -60,16 +59,3 @@ const Main = () => {
 }
 
 export default Main
-=======
-import React from 'react'
-
-const Main = () => {
-  return (
-    <div>
-        
-    </div>
-  )
-}
-
-export default Main
->>>>>>> main
