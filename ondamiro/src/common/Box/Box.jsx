@@ -1,7 +1,9 @@
 import React from "react"
+import { useNavigate } from "react-router-dom"
 import data from "../Main/data.json"
 
-const Main = () => {
+const Box = ({ title, person, time }) => {
+  const Navigate = useNavigate()
   console.log(data.items)
   return (
     <>
@@ -18,4 +20,4 @@ const Main = () => {
   )
 }
 
-export default Main
+export default Box
