@@ -1,8 +1,8 @@
 import React from 'react'
 import * as S from './Topbar.styled'
-import logoImg from '../assets/img/logo.svg'
-import userImg from '../assets/img/user.svg'
-import writeImg from '../assets/img/write.svg'
+import logoImg from '../../assets/img/logo.svg'
+import userImg from '../../assets/img/user.svg'
+import writeImg from '../../assets/img/write.svg'
 
 const Topbar = () => {
   return (

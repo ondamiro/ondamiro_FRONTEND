@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom"
 // import GlobalStyle from "src/style/global.style"
 import GlobalStyle from "../style/global.style"
 import Main from "../page/Main/Main"
-import Topbar from "../content/Topbar"
+import Topbar from "../common/Topbar/Topbar"
 import Login from "../component/Auth/Login/Login"
 import SignUp from "../component/Auth/SignUp/SignUp"
 
