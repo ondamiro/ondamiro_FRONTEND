@@ -28,6 +28,7 @@ const Login = () => {
             </S.contentBox>
         </S.RightSide>
         </S.Body>
+
     )
 }
 

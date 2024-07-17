@@ -1,20 +1,10 @@
-<<<<<<< HEAD
-import Login from "./component/Auth/Login/Login";
+import SignUp from "./component/Auth/SignUp/SignUp";
 function App() {
   return (
     <div>
-      <Login />
+      <SignUp />
     </div>
   );
-=======
-import "./App.css"
-import Topbar from "./content/Topbar"
-
-function App() {
-  return <div>
-    <Topbar />
-  </div>
->>>>>>> main
 }
 
 export default App
