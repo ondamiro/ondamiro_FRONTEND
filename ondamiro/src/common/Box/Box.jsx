@@ -1,15 +1,25 @@
 import React from "react";
-import { useNavigate } from "react-router-dom";
-import * as S from "./Box.styled"
+import data from "../../page/Main/data.json";
+import * as S from "./Box.styled";
 
-const Box = ({ title, howMuch, time }) => {
-  const Navigate = useNavigate();
+const Box = () => {
   return (
-    <div onClick={() => Navigate(`/detail/${index}`)}>
-      <div>{title}</div>
-      <p>{howMuch}</p>
-      <p>{time}</p>
-    </div>
+    <>
+      {data.items.map((data) => (
+        <S.Back>
+          <img src={data.img} alt="error" />
+          <S.Area>
+            <S.textArea key={data.id}>
+              <div>{data.title}</div>
+              <S.bottomArea>
+                <div>{data.person}</div>
+                <div>{data.time}</div>
+              </S.bottomArea>
+            </S.textArea>
+          </S.Area>
+        </S.Back>
+      ))}
+    </>
   );
 };
 
