@@ -7,7 +7,7 @@ margin-top: 13vh;
 `;
 
 export const Form = styled.div`
-width: 70vw;
+width: 73vw;
 height: 95vh;
 display: flex;
 flex-wrap: wrap;
