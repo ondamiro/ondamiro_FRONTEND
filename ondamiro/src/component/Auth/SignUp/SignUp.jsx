@@ -16,10 +16,10 @@ const SignUp = () => {
                 <S.Box>
                     <S.idInputBox placeholder="아이디 입력"></S.idInputBox>
                 </S.Box>
-                <S.Box>
+                <S.cerBox>
                     <S.cellInputBox placeholder="전화번호 입력"></S.cellInputBox>
                     <S.cerBtn>인증</S.cerBtn>
-                </S.Box>
+                </S.cerBox>
                 <S.Box>
                     <S.pwInputBox placeholder="비밀번호 입력" type="password" ></S.pwInputBox>
                     <S.closeEye src={close_eye} alt="error" />
