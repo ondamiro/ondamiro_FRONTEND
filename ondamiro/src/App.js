@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import Login from "./component/Auth/Login/Login";
 function App() {
   return (
@@ -5,6 +6,15 @@ function App() {
       <Login />
     </div>
   );
+=======
+import "./App.css"
+import Topbar from "./content/Topbar"
+
+function App() {
+  return <div>
+    <Topbar />
+  </div>
+>>>>>>> main
 }
 
-export default App;
+export default App
