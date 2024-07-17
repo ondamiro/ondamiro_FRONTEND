@@ -7,6 +7,7 @@ import Login from "../component/Auth/Login/Login"
 import SignUp from "../component/Auth/SignUp/SignUp"
 import Save from "../page/FoodSave/Save"
 import MyPage from "../page/MyPage/MyPage"
+import Detail from "../page/Detail/Detail"
 
 const Router = () => {
   return (
@@ -19,6 +20,7 @@ const Router = () => {
         <Route path="/signup" element={<SignUp />} />
         <Route path="/save" element={<Save />} />
         <Route path="/profile" element={<MyPage />} />
+        <Route path="/detail:id" element={<Detail />} />
       </Routes>
     </BrowserRouter>
   )
