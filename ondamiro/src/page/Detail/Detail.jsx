@@ -1,9 +1,12 @@
 import React from 'react'
 import * as S from './Detail.style'
+import Topbar from '../../common/Topbar/Topbar';
 
 const Detail = () => {
   return (
-    <div>Detail</div>
+    <div>
+        <Topbar />
+    </div>
   )
 }
 
