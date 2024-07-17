@@ -20,7 +20,7 @@ const Topbar = () => {
         <S.logo src={logoImg} />
         <S.iconArea>
         <S.icons>
-            <S.icon>
+            <S.icon onClick={() => Navigate(`/profile`)}>
                 <img src={userImg} />
             </S.icon>
             <S.icon>
