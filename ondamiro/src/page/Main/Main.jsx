@@ -1,19 +1,15 @@
-import React from "react"
-import data from "../Main/data.json"
+import React from 'react'
+import data  from "../Main/data.json"
+import Topbar from "../../common/Topbar/Topbar"
+import Box from '../../common/Box/Box'
 
 const Main = () => {
   console.log(data.items)
   return (
     <>
-      {data.items.map((data) => (
-        <>
-          <div key={data.id}>
-            <div>{data.title}</div>
-            <div>{data.time}</div>
-            <div>{data.person}</div>
-          </div>
-        </>
-      ))}
+    <Topbar />
+    <div>음식 나눔</div>
+    <Box />
     </>
   )
 }

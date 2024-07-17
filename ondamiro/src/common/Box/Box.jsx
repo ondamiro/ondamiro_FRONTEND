@@ -1,23 +1,26 @@
-import React from "react"
-import { useNavigate } from "react-router-dom"
-import data from "../Main/data.json"
+import React from "react";
+import data from "../../page/Main/data.json";
+import * as S from "./Box.styled";
 
-const Box = ({ title, person, time }) => {
-  const Navigate = useNavigate()
-  console.log(data.items)
+const Box = () => {
   return (
     <>
       {data.items.map((data) => (
-        <>
-          <div key={data.id}>
-            <div>{data.title}</div>
-            <div>{data.time}</div>
-            <div>{data.person}</div>
-          </div>
-        </>
+        <S.Back>
+          <img src={data.img} alt="error" />
+          <S.Area>
+            <S.textArea key={data.id}>
+              <div>{data.title}</div>
+              <S.bottomArea>
+                <div>{data.person}</div>
+                <div>{data.time}</div>
+              </S.bottomArea>
+            </S.textArea>
+          </S.Area>
+        </S.Back>
       ))}
     </>
-  )
-}
+  );
+};
 
-export default Box
+export default Box;

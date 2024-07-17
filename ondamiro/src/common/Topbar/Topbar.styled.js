@@ -43,6 +43,13 @@ font-weight: 550;
 display: flex;
 align-items: center;
 justify-content: center;
+cursor: pointer;
+&:hover{
+    background-color: #f7f2f2;
+    }
+&:active{
+    background-color: #f2ebeb;
+}
 `;
 
 export const icon = styled.div`
@@ -54,6 +61,13 @@ align-items: center;
 justify-content: center;
 border-top-left-radius:10px;
 border-top-right-radius:10px;
+cursor: pointer;
+&:hover{
+    background-color: #f7f2f2;
+}
+&:active{
+    background-color: #f2ebeb;
+}
 `;
 
 export const iconImg = styled.img`
