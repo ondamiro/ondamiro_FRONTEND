@@ -2,6 +2,7 @@ import React from "react";
 import * as S from "./Save.styled"
 import Topbar from "../../common/Topbar/Topbar";
 import greenOnion from "../../assets/img/greenOnion.svg";
+import garlic from "../../assets/img/garlic.svg";
 
 
 const Save = () => {
@@ -19,7 +20,7 @@ const Save = () => {
                     <h4>보관 용기 : 밀폐용기, 비밀봉투 또는 지퍼백</h4>
             </S.keep>
             <S.keep>
-                {/* <img src={greenOnion} alt="" /> */}
+                <img src={garlic} alt="error" />
                 <h1>마늘</h1>
                 <h4>보관 온도 : 0~20도 사이의 가급적 시원하고 바람이 잘 통하며 습하지 않은 곳</h4>
                 <h4>습도 : 90~95%의 고습한 환경</h4>
