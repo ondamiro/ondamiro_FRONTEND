@@ -1,20 +1,15 @@
-<<<<<<< HEAD
-import Login from "./component/Auth/Login/Login";
+import Main from "./page/Main/Main"
+import "./App.css"
+// import { BrowseRouter } from "react-router-dom"
+import BrowseRouter from "re"
 function App() {
   return (
-    <div>
-      <Login />
-    </div>
-  );
-=======
-import "./App.css"
-import Topbar from "./content/Topbar"
-
-function App() {
-  return <div>
-    <Topbar />
-  </div>
->>>>>>> main
+    // <div>
+    <BrowseRouter>
+      <Main />
+    </BrowseRouter>
+    // </div>
+  )
 }
 
 export default App
