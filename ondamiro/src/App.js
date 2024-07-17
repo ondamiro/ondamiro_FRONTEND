@@ -1,7 +1,10 @@
 import "./App.css"
+import Topbar from "./content/Topbar"
 
 function App() {
-  return <div className="App"></div>
+  return <div>
+    <Topbar />
+  </div>
 }
 
 export default App
